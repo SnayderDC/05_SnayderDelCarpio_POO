@@ -13,7 +13,7 @@ public class S3_05_DoWhile {
 public static void main(String[] args){
     int a = 100;
     do {        
-        System.out.println("hola");
+        System.out.println("hola2");
     } while (a == 200);
 
        
