@@ -16,7 +16,7 @@ public static void main(String[] args) {
            
            while(a <10){
            
-               System.out.println("hola");
+               System.out.println("hola6");
                a++;
            }
 }
