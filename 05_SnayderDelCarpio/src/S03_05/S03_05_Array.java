@@ -25,7 +25,7 @@ public class S03_05_Array {
         
         System.out.println(numeros[2]);
         
-        int [] numeros2 = {10, 20, 30, 40, 50, 60, 70};
+        int [] numeros2 = {10, 20, 30, 40, 50, 60, 70,80};
         
         System.out.println(numeros2[2]);
         
