@@ -15,7 +15,7 @@ public class S3_05_For {
         
         for(int i = 0;i <= 10;i++){
             
-            System.out.println("hola");
+            System.out.println("holad");
             
         }
         
