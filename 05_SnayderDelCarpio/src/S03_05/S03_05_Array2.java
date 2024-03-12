@@ -15,7 +15,7 @@ public class S03_05_Array2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    int [][] numeros2 = {{10, 20},{50, 40}};
+    int [][] numeros2 = {{10, 20},{50, 60}};
        
         System.out.println(numeros2 [1][0]);
     }
