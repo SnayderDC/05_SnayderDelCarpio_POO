@@ -33,7 +33,7 @@ public class S03_05_If_Else {
         }else if (b==20){
             System.out.println("b vale 20");
         }else if (b==30){
-            System.out.println("b vale 30");
+            System.out.println("b vale 3d");
         }else{
             System.out.println("no cumple");
         }
